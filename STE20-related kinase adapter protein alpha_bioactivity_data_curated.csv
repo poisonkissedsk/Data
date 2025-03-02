@@ -1,4 +1,0 @@
-molecule_chembl_id,canonical_smiles,standard_value,class
-CHEMBL4088216,CN1C(=O)[C@@H](N2CCc3cn(Cc4ccccc4)nc3C2=O)COc2ccccc21,1000.0,active
-CHEMBL4549667,CN1C(=O)[C@@H](N2CCc3c(nn(Cc4ccccc4)c3Br)C2=O)COc2ccccc21,1000.0,active
-CHEMBL4097778,CN1C(=O)[C@@H](N2CCc3cn(CC4CCS(=O)(=O)CC4)nc3C2=O)COc2ccccc21,1000.0,active
